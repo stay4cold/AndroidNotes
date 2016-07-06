@@ -5,5 +5,7 @@
 
 [Android Webview中的视屏全屏功能实现](http://www.jianshu.com/p/721446c7387e)
 
+[玩转Android Bitmap](http://www.jianshu.com/p/3950665e93e6)
+
 
 
