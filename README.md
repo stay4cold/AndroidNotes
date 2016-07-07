@@ -7,5 +7,7 @@
 
 [玩转Android Bitmap](http://www.jianshu.com/p/3950665e93e6)
 
+[Android Bitmap 缓存策略](http://www.jianshu.com/p/635fceca82d3)
+
 
 
