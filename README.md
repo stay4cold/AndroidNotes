@@ -9,5 +9,7 @@
 
 [Android Bitmap 缓存策略](http://www.jianshu.com/p/635fceca82d3)
 
+[Java 深入接口和抽象类](http://www.jianshu.com/p/205e4020f59d)
+
 
 
