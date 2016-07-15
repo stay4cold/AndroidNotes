@@ -9,7 +9,9 @@
 
 [Android Bitmap 缓存策略](http://www.jianshu.com/p/635fceca82d3)
 
-[Java 深入接口和抽象类](http://www.jianshu.com/p/205e4020f59d)
+[Java 深入接口和抽象类](http://www.jianshu.com/p/205e4020f59d)  
+
+[Android通过Wifi来调试应用](http://www.jianshu.com/p/3c1b97330150)
 
 
 
