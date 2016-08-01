@@ -14,3 +14,5 @@
 [Android通过Wifi来调试应用](http://www.jianshu.com/p/3c1b97330150)
 
 [发布Android Library项目到JCenter遇到的坑](https://github.com/stay4cold/AndroidNotes/blob/master/Error:Plugin%20with%20id%20'com.jfrog.bintray'%20not%20found.解决办法.md)
+
+[Android无线调试](https://github.com/stay4cold/AndroidNotes/blob/master/Android无线调试.md)
